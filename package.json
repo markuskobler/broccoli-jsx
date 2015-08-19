@@ -1,0 +1,19 @@
+{
+  "name": "broccoli-jsx",
+  "description": "JSX transpiler plugin for Broccoli",
+  "version": "1.0.0",
+  "main":"./lib/index.js",
+  "license": "BSD-3-Clause",
+  "repository": "markuskobler/broccoli-jsx",
+  "dependencies": {
+    "broccoli-caching-writer": "^1.1.0",
+    "jsx-transform": "^0.12.1",
+    "mkdirp": "^0.3.5",
+    "rsvp": "^3.0.6"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "jsx",
+    "react"
+  ]
+}
